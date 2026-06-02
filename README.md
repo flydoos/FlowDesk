@@ -40,26 +40,46 @@
 
 [🔖 前往 B站 观看 FlowDesk 演示视频](https://www.bilibili.com/video/BV1u8Vq6sES8/)
 
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme01.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme02.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme03.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme04.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme05.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme06.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme07.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme08.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme09.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme10.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme11.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme12.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme13.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme14.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme15.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme16.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme17.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme18.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme19.gif)
-![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme20.gif)
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme01.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme02.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme03.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme04.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme05.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme06.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme07.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme08.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme09.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme10.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme11.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme12.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme13.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme14.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme15.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme16.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme17.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme18.gif"/></a>
+</p>
+<p align="center">
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme19.gif"/></a>
+	<a><img width="48%" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme20.gif"/></a>
+</p>
 
 ## ✨ 功能特色
 
