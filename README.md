@@ -1,22 +1,22 @@
-<p align=”center”>
+<p align="center">
 	<a><img width="100px" src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Logo.png"/></a>
 </p>
-<p align=”center”>
-  <a href=”https://github.com/flydoos/FlowDesk/issues”><img alt=”GitHub issues” src=”https://img.shields.io/github/issues/flydoos/FlowDesk?style=flat-square”></a>
-  <a href=”https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.27-windows-x64-installer”><img src=”https://img.shields.io/badge/platform-Windows%2010%20/%2011-lightgrey.svg?style=flat-square”/></a>
-  <a href=”https://github.com/flydoos/FlowDesk/stargazers”><img alt=”GitHub stars” src=”https://img.shields.io/github/stars/flydoos/FlowDesk?style=flat-square”></a>
-  <a href=”https://github.com/flydoos/FlowDesk/tags”><img alt=”GitHub tag (latest by date)” src=”https://img.shields.io/github/v/tag/flydoos/FlowDesk?style=flat-square”></a>
-  <a href=”https://github.com/flydoos/FlowDesk/releases”><img src=”https://img.shields.io/github/downloads/flydoos/FlowDesk/total.svg?style=flat-square”/></a>
+<p align="center">
+  <a href="https://github.com/flydoos/FlowDesk/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/flydoos/FlowDesk?style=flat-square"></a>
+  <a href="https://dotnet.microsoft.com/zh-cn/download/dotnet/thank-you/runtime-desktop-8.0.27-windows-x64-installer"><img src="https://img.shields.io/badge/platform-Windows%2010%20/%2011-lightgrey.svg?style=flat-square"/></a>
+  <a href="https://github.com/flydoos/FlowDesk/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/flydoos/FlowDesk?style=flat-square"></a>
+  <a href="https://github.com/flydoos/FlowDesk/tags"><img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/flydoos/FlowDesk?style=flat-square"></a>
+  <a href="https://github.com/flydoos/FlowDesk/releases"><img src="https://img.shields.io/github/downloads/flydoos/FlowDesk/total.svg?style=flat-square"/></a>
 </p>
-<p align=”center”>
-  <img src=”https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/ClickStar.png”/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/ClickStar.png"/>
 </p>
 
 # 🌈 FlowDesk（流光动态桌面）
 
 你是不是也受够了千篇一律的静态壁纸？每天对着同一张图片，早就看腻了？
 
-**FlowDesk（流光动态桌面）** 能让你的桌面彻底”活”过来！它是一款免费的 Windows 动态桌面壁纸软件，可以把 **高清视频、炫酷动画、鼠标互动特效** 直接变成你的桌面背景。
+**FlowDesk（流光动态桌面）** 能让你的桌面彻底"活"过来！它是一款免费的 Windows 动态桌面壁纸软件，可以把 **高清视频、炫酷动画、鼠标互动特效** 直接变成你的桌面背景。
 
 想象一下——
 
@@ -45,7 +45,7 @@
 ### 🎬 视频壁纸，丝滑播放
 支持 MP4、WebM 等主流视频格式，多个视频自动轮播，切换时采用双缓冲无缝过渡，没有黑屏、没有卡顿，画面永远在线。
 
-### 🖱️ 鼠标互动，桌面能”玩”
+### 🖱️ 鼠标互动，桌面能"玩"
 部分主题支持鼠标跟踪——你的鼠标走到哪，光影特效就跟到哪；划一划就能拖出彩色流光；点一点粒子就四散飞舞。这不是壁纸，这是你的桌面游乐场。
 
 ### 🌗 自动昼夜切换
@@ -121,7 +121,7 @@ QQ群：223541319 （催更请进群）
 
 官网：https://www.wuleba.com （我的软件博客，大家去支持下）
 
-对 “FlowDesk（流光动态桌面）” 有任何使用上或者技术上的疑问，欢迎随时联系作者。
+对 “FlowDesk（流光动态桌面）" 有任何使用上或者技术上的疑问，欢迎随时联系作者。
 
 ## 🧧 投喂
 
@@ -131,6 +131,6 @@ QQ群：223541319 （催更请进群）
 
 本程序是作者闲暇之余，为方便自己使用而开发的一个小工具。使用本程序产生的一切后果，需要用户自行承担，作者不承担任何责任！如果对其他人/公司造成不好的影响，请到QQ群联系作者，我会马上删除，谢谢。
 
-<p align=”center”>
-  <img width=”100%” src=”https://api.star-history.com/svg?repos=flydoos/FlowDesk&type=Date”/>
+<p align="center">
+  <img width="100%" src="https://api.star-history.com/svg?repos=flydoos/FlowDesk&type=Date"/>
 </p>
