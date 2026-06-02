@@ -40,6 +40,27 @@
 
 [🔖 前往 B站 观看 FlowDesk 演示视频](https://www.bilibili.com/video/BV1u8Vq6sES8/)
 
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme01.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme02.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme03.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme04.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme05.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme06.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme07.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme08.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme09.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme10.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme11.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme12.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme13.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme14.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme15.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme16.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme17.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme18.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme19.gif)
+![Screenshot](https://cdn.jsdelivr.net/gh/flydoos/FlowDesk/Images/Theme20.gif)
+
 ## ✨ 功能特色
 
 ### 🎬 视频壁纸，丝滑播放
